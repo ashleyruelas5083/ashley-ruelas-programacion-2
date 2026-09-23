@@ -1,5 +1,4 @@
 # ashley-ruelas-programacion-2
-# ashley-ruelas-programacion-1
 practicas clase 
 Nombre del alumno: Ashley Fernanda Ruelas Quevedo
 Curso: Programación 1
